@@ -1,7 +1,7 @@
-# PromptBox
 
 ![appicon](https://github.com/user-attachments/assets/ed85fea6-abe6-47f2-81c2-f5a6a23067e1)
 
+# PromptBox
 
 A simple, efficient prompt manager that lives in your macOS menubar. Save, organize, and quickly copy your frequently used prompts.
 
