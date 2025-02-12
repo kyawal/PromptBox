@@ -1,9 +1,11 @@
 # PromptBox
 
+![appicon](https://github.com/user-attachments/assets/ed85fea6-abe6-47f2-81c2-f5a6a23067e1)
+
+
 A simple, efficient prompt manager that lives in your macOS menubar. Save, organize, and quickly copy your frequently used prompts.
 
-
-<img width="457" alt="image" src="https://github.com/user-attachments/assets/5ec72cff-f16c-43a6-9aad-73c98d63e8a8" />
+![329shots_so](https://github.com/user-attachments/assets/da1bae56-2a61-4dfd-ab3d-612bc526d94a)
 
 ## Features
 - 📝 Save and organize your prompts
@@ -14,7 +16,7 @@ A simple, efficient prompt manager that lives in your macOS menubar. Save, organ
 
 ## Installation
 
-1. Download the latest release from [GitHub Releases](link-to-your-releases)
+1. Download the latest release from [GitHub Releases]
 2. Extract PromptBox.zip
 3. Move PromptBox.app to your Applications folder
 4. Launch the app
